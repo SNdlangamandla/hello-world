@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My First Website </title>
+  <title>HELLO WORLD </title>
 </head>
 <body>
   <h1>Hello, FNB App Academy!</h1>
