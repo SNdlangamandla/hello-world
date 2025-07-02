@@ -1,10 +1,11 @@
-# hello-world
+<!DOCTYPE html>
 <html>
 <head>
-<link rel = "stylesheet" href=" styles.css">
+  <link rel = "stylesheet" href=" styles.css">
+  <title>My First Website </title>
 </head>
-  <body>
-<link rel = "stylesheet" href=" styles.css">
-  <h1>HELLO WORLD!</h1>
+<body>
+  <h1>Hello, FNB App Academy!</h1>
+  <p>This is my first web page using VS Code.</p>
 </body>
 </html>
